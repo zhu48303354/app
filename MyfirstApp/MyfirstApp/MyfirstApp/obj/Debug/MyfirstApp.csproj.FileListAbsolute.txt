@@ -1,0 +1,13 @@
+D:\App\MyfirstApp\MyfirstApp\MyfirstApp\bin\Debug\MyfirstApp.exe.config
+D:\App\MyfirstApp\MyfirstApp\MyfirstApp\obj\Debug\MyfirstApp.csprojResolveAssemblyReference.cache
+D:\App\MyfirstApp\MyfirstApp\MyfirstApp\obj\Debug\MyfirstApp.Form1.resources
+D:\App\MyfirstApp\MyfirstApp\MyfirstApp\obj\Debug\MyfirstApp.Properties.Resources.resources
+D:\App\MyfirstApp\MyfirstApp\MyfirstApp\obj\Debug\MyfirstApp.csproj.GenerateResource.Cache
+D:\App\MyfirstApp\MyfirstApp\MyfirstApp\obj\Debug\MyfirstApp.exe
+D:\App\MyfirstApp\MyfirstApp\MyfirstApp\obj\Debug\MyfirstApp.pdb
+D:\App\MyfirstApp\MyfirstApp\MyfirstApp\bin\Debug\MyfirstApp.exe.manifest
+D:\App\MyfirstApp\MyfirstApp\MyfirstApp\bin\Debug\MyfirstApp.application
+D:\App\MyfirstApp\MyfirstApp\MyfirstApp\bin\Debug\MyfirstApp.exe
+D:\App\MyfirstApp\MyfirstApp\MyfirstApp\bin\Debug\MyfirstApp.pdb
+D:\App\MyfirstApp\MyfirstApp\MyfirstApp\obj\Debug\MyfirstApp.exe.manifest
+D:\App\MyfirstApp\MyfirstApp\MyfirstApp\obj\Debug\MyfirstApp.application
